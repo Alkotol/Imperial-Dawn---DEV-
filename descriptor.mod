@@ -1,13 +1,11 @@
-version="0.1"
+version="0.01"
 tags={
-	"Alternative History"
+	"Events"
 	"Gameplay"
+	"Historical"
 	"Map"
 	"National Focuses"
-	"Utilities"
-	"Military"
-	"Ideologies"
 	"Graphics"
 }
-name="Imperial Dawn - For King and Country"
-supported_version="1.15.4"
+name="Kovas State Rework Expanded Refined/KSRER"
+supported_version="1.19.2.0"
